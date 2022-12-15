@@ -119,7 +119,7 @@ Here we see both IA32(32 Bit CPUs) and X64(64 Bit CPUs) folders, choose the one 
 4. Click Start
 5. Delete all file autorun in USB Drive partition
 
-![](../images/installer-guide/winblows-install-md/format-usb-rufus.png)
+![](../images/installer-guide/winblows-install-md/UPLOAD NEW IMAGE HERE)
 
 Next, go to the root of this USB drive and create a folder called `com.apple.recovery.boot`. Then move the downloaded BaseSystem or RecoveryImage files. Please ensure you copy over both the .dmg and .chunklist files to this folder:
 
